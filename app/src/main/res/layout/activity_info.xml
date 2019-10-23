@@ -53,7 +53,7 @@
         app:layout_constraintLeft_toLeftOf="@+id/text_view_address"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/image_view_map" />
-    
+
 
     <TextView
         android:id="@+id/text_view_hours"
